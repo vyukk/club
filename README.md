@@ -19,3 +19,4 @@ Good first tasks
 - Add club model and simple API endpoints (create/list)
 - Write README with routes and example requests
 # club
+# club
